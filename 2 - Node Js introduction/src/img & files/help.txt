@@ -1,0 +1,37 @@
+npm init -y
+
+npm install express --save
+
+express framework 
+
+script npm start
+
+metodos http = get post put delete patch
+
+response request
+
+route Params obrigatorios
+
+query params
+
+nodemon
+
+insomnia requisiçoes post
+
+pasta routes para guardar todo conteudo
+
+Controller onde tem os metodos :
+
+Index: Get para listar varios registros
+Show: Get para exibir um registro especifico
+Create: Post para criar um registro
+Update: Put para atualizar um registro
+delete: Delete para remover um registro
+
+codigos http
+
+middlewares tem acesso a requisição antes do metodo 
+
+
+express-async-errors
+
