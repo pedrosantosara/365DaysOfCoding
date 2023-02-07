@@ -48,5 +48,5 @@ npm start
 # Insomnia
 
 <p align='center'>
-<img src="https://github.com/pedrosantosara/365DaysOfCoding/blob/main/">
+<img src="https://github.com/pedrosantosara/365DaysOfCoding/blob/main/02%20-%20Node%20Js%20introduction/src/img/create-user.PNG">
 </p>
