@@ -1,0 +1,24 @@
+{
+  "name": "04---querybuilder",
+  "version": "1.0.0",
+  "description": "Sql",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/server.js",
+    "dev": "nodemon ./src/server.js",
+    "migrate": "knex migrate:latest"
+  },
+  "author": "Pedro Henrique Santos Araujo",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.18.2",
+    "express-async-errors": "^3.1.1",
+    "knex": "^2.4.2",
+    "sqlite": "^4.1.2",
+    "sqlite3": "^5.1.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
