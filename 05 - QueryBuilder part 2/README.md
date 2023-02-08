@@ -1,6 +1,6 @@
 # Querybuilder 
 
-> Commit 4 do projeto [02 - Node Js introduction](https://github.com/pedrosantosara/365DaysOfCoding/tree/main/02%20-%20Node%20Js%20introduction)
+> Commit 4 of project [02 - Node Js introduction](https://github.com/pedrosantosara/365DaysOfCoding/tree/main/02%20-%20Node%20Js%20introduction)
 
 > In the version add new routes and functions, Tags (get), Notes(Get all) query user_id, title, tags
 
