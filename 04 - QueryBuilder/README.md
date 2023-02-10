@@ -1,6 +1,6 @@
 # Querybuilder 
 
-> Commit 3 do projeto [02 - Node Js introduction](https://github.com/pedrosantosara/365DaysOfCoding/tree/main/02%20-%20Node%20Js%20introduction)
+> Commit 3 of project [02 - Node Js introduction](https://github.com/pedrosantosara/365DaysOfCoding/tree/main/02%20-%20Node%20Js%20introduction)
 
 This project aims to create a database and develop a CRUD (Create, Read, Update, Delete). Currently, I am implementing the "GET" and "PUT" functionality, which allows me to create new users in the database.
 
